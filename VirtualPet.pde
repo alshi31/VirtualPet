@@ -1,10 +1,9 @@
 
 void setup(){
-  //some of your code here
+   size(400,600);
+background(179,179,230); //purple background
 }
 void draw(){
- size(400,600);
-background(179,179,230); //purple background
 
 fill(0,0,0);
 triangle(200,146,46,452,354,452);
